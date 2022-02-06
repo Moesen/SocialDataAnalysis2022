@@ -1,0 +1,3 @@
+[submodule "socialdata2022"]
+	path = socialdata2022
+	url = git@github.com:suneman/socialdata2022.git
